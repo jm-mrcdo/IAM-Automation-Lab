@@ -4,7 +4,7 @@ import requests
 KEYCLOAK_URL = "http://localhost:8080"
 REALM_NAME = "CyberLab-ENT"
 CLIENT_ID = "automation-script"
-CLIENT_SECRET = "m9OyQsuUX13oLK8KTk3t98bkjHwWeboF"
+CLIENT_SECRET = "CLIENT_SECRET_HERE"
 
 # 1. Get Access Token (The Script "Logs In")
 token_url = f"http://localhost:8080/realms/{REALM_NAME}/protocol/openid-connect/token"
