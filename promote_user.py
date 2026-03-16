@@ -4,7 +4,7 @@ import requests
 KEYCLOAK_URL = "http://localhost:8080"
 REALM = "CyberLab-ENT"
 CLIENT_ID = "automation-script"
-CLIENT_SECRET = "m9OyQsuUX13oLK8KTk3t98bkjHwWeboF"
+CLIENT_SECRET = "CLIENT_SECRET_HERE"
 TARGET_USERNAME = "pwhite_iam"  # We are promoting Professor White
 ROLE_ID = "caf7ecc5-87b6-405b-b134-d24bdd04b036"
 ROLE_NAME = "Manager"
