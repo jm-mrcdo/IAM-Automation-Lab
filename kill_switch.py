@@ -4,7 +4,7 @@ import requests
 BASE_URL = "http://localhost:8080"
 REALM = "CyberLab-ENT"
 CLIENT_ID = "automation-script"
-CLIENT_SECRET = "m9OyQsuUX13oLK8KTk3t98bkjHwWeboF"
+CLIENT_SECRET = "CLIENT_SECRET_HERE"
 TARGET_USER = "audit_01_ext" # We'll test this on one of the auditors
 
 # 2. Get Access Token
